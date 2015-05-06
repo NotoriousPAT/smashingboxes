@@ -1,0 +1,152 @@
+.fixed-header{
+  background:#ae1f58;
+  width:100%;
+  height:15%;
+  position:fixed;
+  top:0;
+  z-index:1000;
+  }
+
+
+.logo{
+  width:30%;;
+  margin-top:1%;
+  margin-left:5%;
+  float:left;
+  clear:none;
+  position:fixed;
+  }
+
+
+.nav-box{
+  margin-top:3.5%;
+  width:30%;
+  float:right;
+  clear:none;
+  display:inline-block;
+  }
+    li{
+      list-style-type:none;
+      display:inline;
+      }
+
+
+.nav-links{
+  font:times;
+  color:#ffffff;
+  background:#ae1f58;
+  text-decoration:none;
+  text-transform:uppercase;
+  margin:0 1%;
+  font-size:100%;
+  }
+    .nav-links:hover{
+      text-decoration:underline;
+      }
+
+
+.landing-box{
+  width:100%;
+  height:800px;
+  background:#eb1767;
+  }
+
+
+.hover-text{
+  padding-top:10%;
+  background:#eb1767;
+  color:#ffffff;
+  font-size:18px;
+  letter-spacing:1px;
+  line-height:250%;
+  text-transform:uppercase;
+  width:55%;
+  margin:auto;
+  }
+
+
+p{
+  line-height:150%;
+  }
+
+
+.hover-logo{
+  background:#eb1767;
+  color:#ffffff;
+  max-width:70%;
+  padding-top:3%;
+  margin:auto;
+}
+    .IYandSBlogo{
+      width:100%;
+      }
+
+
+.text-button{
+  display:block;
+  text-align:center;
+  margin:4% auto;
+  width:8%;
+  font-style:bold;
+  background:#ae1f58;
+  border:#ae1f58;
+  border-radius:8px;
+  padding:1.5% 1%;
+  color:#ffffff;
+  text-decoration:none;
+  }
+
+    .text-button:hover{
+      color:#ae1f58;
+      background:#ffffff;
+      }
+
+
+  .background-photo{
+    z-index:-100;
+    display:inline;
+    background-size:cover;
+    top:12%;
+    position:fixed;
+    }
+
+
+  .text-overlay{
+    color:#ffffff;
+    width:60%;
+    margin:auto;
+    padding:7% 0 7% 0;
+    }
+
+
+
+
+
+
+  .timeline-image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background:#ffffff;
+
+  }
+
+.about-background{
+  background:#ffffff;
+
+}
+
+.about-section{
+  color:#000000;
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:5%;
+
+
+}
+
+  .bold-text{
+    color:#eb1767;
+    font-style:bold;
+  }
